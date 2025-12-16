@@ -1,10 +1,10 @@
 function Home() {
-    return (
-    <>
-        <h1>Welcome to TabNews Clone!</h1>
-        <h2>Your learning project for full-stack development.</h2>
-    </>
- );
+  return (
+    <div className="page">
+      <h1>Pede um sushi pra noiz</h1>
+      <h2>Eu posso comer 20 peças</h2>
+    </div>
+  );
 }
 
 export default Home;
